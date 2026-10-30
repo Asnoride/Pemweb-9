@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo Fetcher</string>
+    <string name="todo_list_title">Todo Tasks List</string>
+    <string name="todo_detail_title">Task Details</string>
+    <string name="completed">Completed</string>
+    <string name="pending">Pending</string>
+    <string name="loading_data">Fetching data from server…</string>
+    <string name="error_connection">Connection failed! Checking local server or network…</string>
+    <string name="retry">Retry</string>
+    <string name="auto_retrying">Retrying automatically in %1$d sec (Attempt %2$d/%3$d)…</string>
+    <string name="user_id_label">User ID: %1$d</string>
+    <string name="task_id_label">Task #%1$d</string>
+</resources>
